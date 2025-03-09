@@ -1,0 +1,88 @@
+{
+    "fagaras": {
+        "coords": [
+            45.6234,
+            25.2431
+        ],
+        "forecasts": [{
+            "condition": "Cloudy",
+            "temperature": 5.7
+        }]
+    },
+    "brasov": {
+        "coords": [
+            45.6435,
+            25.5896
+        ],
+        "forecasts": [
+            {
+                "condition": "Sunny",
+                "temperature": 12.5
+            },
+            {
+                "condition": "Foggy",
+                "temperature": 9.5
+            },
+            {
+                "condition": "Cloudy",
+                "temperature": 13
+            },
+            {
+                "condition": "Sunny",
+                "temperature": 13
+            }
+        ]
+    },
+    "sighisoara": {
+        "coords": [
+            43.4224,
+            24.7243
+        ],
+        "forecasts": [
+            {
+                "condition": "Windy",
+                "temperature": 14.5
+            },
+            {
+                "condition": "Sunny",
+                "temperature": -2.5
+            }
+        ]
+    },
+    "buzau": {
+        "coords": [
+            44.7813,
+            25.9265
+        ],
+        "forecasts": [
+            {
+                "condition": "Sunny",
+                "temperature": 20
+            },
+            {
+                "condition": "Sunny",
+                "temperature": 11.6
+            }
+        ]
+    },
+    "focsani": {
+        "coords": [
+            45.9314,
+            26.0231
+        ],
+        "forecasts": [{
+            "condition": "Misty",
+            "temperature": 2
+        }]
+    },
+    "sibiu": {
+        "coords": [
+            34.5245,
+            24.4166
+        ],
+        "forecasts": [{
+            "condition": "Cloudy",
+            "temperature": 13
+        }]
+    }
+}

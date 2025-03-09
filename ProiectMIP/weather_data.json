@@ -1,0 +1,10 @@
+{"brasov": {
+    "coords": [
+        44.6,
+        24.5263
+    ],
+    "forecasts": [{
+        "condition": "Sunny",
+        "temperature": 13
+    }]
+}}
