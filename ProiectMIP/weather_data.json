@@ -1,10 +1,22 @@
-{"brasov": {
-    "coords": [
-        44.6,
-        24.5263
-    ],
-    "forecasts": [{
-        "condition": "Sunny",
-        "temperature": 13
-    }]
-}}
+{
+    "brasov": {
+        "coords": [
+            44.6,
+            24.5263
+        ],
+        "forecasts": [{
+            "condition": "Sunny",
+            "temperature": 13
+        }]
+    },
+    "constanta": {
+        "coords": [
+            50,
+            50
+        ],
+        "forecasts": [{
+            "condition": "Sunny",
+            "temperature": 14
+        }]
+    }
+}
